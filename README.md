@@ -60,3 +60,5 @@ G40,high,yes,excellent,yes
 
 
 ### RESULT: 
+Thus to generate associate rules for the employee dataset using Apriori Algorithm is executed successfully.
+
